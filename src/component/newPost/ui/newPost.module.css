@@ -1,0 +1,30 @@
+.formEdit{
+    display: grid;
+    height: 20vh;
+    margin-bottom: 15%;
+    align-items: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    background-color: #e08600;
+    padding: 2%;
+    color: #ffffff;
+}
+.form input{
+    padding: 2%;
+    outline: none;
+}
+.NewPostLabel{
+    margin-bottom: 2%;
+}
+.buttonSubmit{
+    border-radius: 8px;
+    background-color: red;
+    border: none;
+    height: 30px;
+    margin-top: 2%;
+    color: #ffffff;
+    cursor:pointer;
+}

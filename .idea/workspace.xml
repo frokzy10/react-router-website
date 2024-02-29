@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18005b12-7ace-417d-a5de-2307f6c0baf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/json/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/blogFilter/ui/BlogFilter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/blogFilter/ui/blogfilter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/blogPage/postShowComponent/PostList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/blogPage/ui/blogpage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/errorPage/ui/ErrorPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/loginPage/ui/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/loginPage/ui/loginpage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/newPost/CreatePost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/newPost/ui/NewPost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/newPost/ui/newPost.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/postsElements/PostsShowElId/PostsComments.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/postsElements/PostsShowElId/PostsIdEl.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/postsElements/ui/SinglePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/updatePosts/EditPost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/updatePosts/ui/UpdatePosts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/updatePosts/ui/updatePosts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/LinkConfig/CustomLink.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/AuthProvider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/RouterAuth.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hook/UseAuth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nurdintest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nurdintest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cx9MsHakOBhfYplBy7VUnwZMvn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\user\\WebStorm 2023.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Downloads\Telegram Desktop\nurdintest (3)\nurdintest\src\component\updatePosts" />
+      <recent name="C:\Users\user\Downloads\Telegram Desktop\nurdintest (3)\nurdintest\src\component\newPost" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18005b12-7ace-417d-a5de-2307f6c0baf0" name="Changes" comment="" />
+      <created>1709042321997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709042321997</updated>
+      <workItem from="1709042327518" duration="3862000" />
+      <workItem from="1709128668016" duration="6215000" />
+      <workItem from="1709187127779" duration="5155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
